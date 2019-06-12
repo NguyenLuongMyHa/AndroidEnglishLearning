@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">1200ToeicWords</string>
+    <string name="title">Đoán xem!?</string>
+    <string name="result_his_empty">Bạn cần search một vài từ trước khi ôn tập</string>
+    <string name="btn_submit">Đoán!</string>
+    <string name="result_word_bad">Không đúng rồi.. đoán lại nào!</string>
+    <string name="result_word_ok">Không tin được! Bạn đoán được rồi này!</string>
+    <string name="result_letter_bad">Không có chữ nào như vậy trong từ này!</string>
+    <string name="result_letter_ok">Sắp đúng rồi bạn ơi!</string>
+    <string name="input_hint">Gợi ý</string>
+    <string name="result_total_bad">Bạn phải nhập một chữ cái hoặc một từ để đoán!</string>
+    <string name="dialog_close">Close</string>
+</resources>
